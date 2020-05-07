@@ -2,5 +2,4 @@
 npm i mocha chai -D
 
 # Run
-npm run test
-npm run start
+npm run test and npm run start
