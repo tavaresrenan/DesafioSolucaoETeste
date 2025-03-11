@@ -15,7 +15,7 @@ class QuestionFactory {
             case 'four':
                 return new Four(opts.arr);
             default: {
-                console.log('Questão nao encontrada');
+                console.log('Questão nao encontrada.');
             }
         }
     }
